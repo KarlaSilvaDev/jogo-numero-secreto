@@ -8,3 +8,6 @@ Jogo desenvolvido no curso da Oracle Next Education em parceria com a Alura. O o
 - JAVASCRIPT
 
 <a href="https://imgur.com/OKpe4gC"><img src="https://i.imgur.com/OKpe4gC.png" title="source: imgur.com" /></a>
+
+## Jogue aqui:
+https://jogo-numero-secreto-mauve-eta.vercel.app/
